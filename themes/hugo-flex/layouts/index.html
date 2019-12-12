@@ -27,6 +27,7 @@
 {{ range $paginator.Pages }}
 <article>
   {{ partial "heading.html" . }}
+  {{ partial "tags.html" . }}
   {{ if site.Params.summaries }}
   {{ .Summary }}
   {{ if .Truncated }}
@@ -37,7 +38,6 @@
   {{ else }}
   {{ .Content }}
   {{ end }}
-  {{ partial "tags.html" . }}
 </article>
 {{ with site.Params.divider }}<div class="Divider"></div>{{ end }}
 {{ end }}
