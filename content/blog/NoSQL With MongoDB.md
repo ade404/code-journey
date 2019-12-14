@@ -3,6 +3,10 @@ title: "NoSQL With MongoDB"
 date: 2019-11-26T02:00:28+07:00
 draft: true
 tags: ["NoSql"]
+
+# post thumb
+image: "images/post/post-1.jpg"
+
 ---
 # The MongoDB 4.2 Manual #
 

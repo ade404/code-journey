@@ -2,6 +2,9 @@
 title: "Whats Python"
 date: 2019-12-05T20:28:21+07:00
 draft: true
+
+# post thumb
+image: "images/post/post-1.jpg"
 ---
 
 # Python For Beginners #

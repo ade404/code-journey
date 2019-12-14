@@ -2,6 +2,9 @@
 title: "Whats Ruby"
 date: 2019-12-05T20:25:11+07:00
 draft: true
+
+# post thumb
+image: "images/post/post-1.jpg"
 ---
 
 # The Ideals of Ruby’s Creator #
