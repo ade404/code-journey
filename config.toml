@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Code Journey"
 theme = "liva-hugo"
 summaryLength = "10"
-paginate = 9
+paginate = 6
 disqusShortname = ""
 
 [outputs]
@@ -104,25 +104,25 @@ title = "Join Our Newsletter"
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+ #[[params.social]]
+ #title = "facebook"
+ #icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+ #link = "#"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+ #[[params.social]]
+ #title = "twitter"
+ #icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+ #link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/ade.404/"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/ade404"
 
 [[params.social]]
 title = "linkedin"
