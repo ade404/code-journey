@@ -8,5 +8,5 @@ features = ['bootstrap','responsive']
 min_version = "0.58.0"
 
 [author]
-  name = "ade404"
+  name = "Themefisher"
   homepage = "https://themefisher.com/"
